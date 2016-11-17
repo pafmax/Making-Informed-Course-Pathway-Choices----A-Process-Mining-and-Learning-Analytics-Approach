@@ -1,11 +1,11 @@
-# This document is to organize the structure of the article
+# S
 ## Abstract
 
 ## Introduction
 
 ### Literature review
 
-Talk about:
+
 * process mining
 * educational process mining
 * Concept drift
