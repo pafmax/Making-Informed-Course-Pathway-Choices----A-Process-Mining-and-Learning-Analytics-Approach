@@ -1,5 +1,4 @@
-# This document is to organize the structure of the article
-
+# T
 ## Abstract
 
 ## Introduction
