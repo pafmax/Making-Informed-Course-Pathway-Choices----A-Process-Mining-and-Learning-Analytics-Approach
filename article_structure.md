@@ -5,7 +5,7 @@
 
 ### Literature review
 
-Talk about:
+
 * process mining
 * educational process mining
 * Concept drift
