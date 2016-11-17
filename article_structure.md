@@ -56,7 +56,7 @@ Talk about:
 * more user-friendly
 * education not really a process in process mining terms
 * simpler solution adds more value
-* how a notion becomes more usefull than the raw data
+* how a notion becomes more usefull than the 
 * exploration tool
 
 ## Conclusions
