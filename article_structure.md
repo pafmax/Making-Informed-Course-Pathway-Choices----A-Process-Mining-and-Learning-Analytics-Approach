@@ -57,6 +57,8 @@ Talk about:
 * education not really a process in process mining terms
 * simpler solution adds more value to the usage acceptance
 * how a notion becomes more usefull than the raw data (find stuff about this topic)
+* simpler solution adds more value
+* how a notion becomes more usefull than the 
 * exploration tool
 * not a precise analytical tool
 * we don't completeley know the nature of the outliers
