@@ -34,7 +34,7 @@ Talk about:
 * Size
 * end-user
 
-## Methods
+## Data Preparation and Aquisition
 
 * Describe the Methods
 * Describe R and Shiny
